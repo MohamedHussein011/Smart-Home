@@ -1,6 +1,6 @@
 # Smart-Home
 # Smart Home Application
-Smart home application implemented using AVR Atmega32 and you can use bluetooth module HC-05
+Smart home application implemented using AVR Atmega32
 
 ## Features:
 1. Security system with username and password login
@@ -23,3 +23,6 @@ Smart home application implemented using AVR Atmega32 and you can use bluetooth 
 2. LDR sensor
 4. Buzzer
 5. LED
+
+i used Proteus for simulation 
+P.S: when you enter any thing hit (Tab) button, it acts like enter button for this project
